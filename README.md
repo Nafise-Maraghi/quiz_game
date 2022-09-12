@@ -2,6 +2,6 @@
 
 <span style="font-size:20px"> 
 A quiz game about computers and programming.</br>
-just download the file, run and enjoy :)
+just run and enjoy :)
 </span>
 
