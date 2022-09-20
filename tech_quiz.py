@@ -51,7 +51,7 @@ def continue_or_quit():
 
     status = True
     while status == True:
-        user_input = input("\nPress inter to continue or \"Q\" to quit: ")
+        user_input = input("\nPress Enter to continue or \"Q\" to quit: ")
         if user_input.lower() == "q":
             print("\nComeback soon!\n")
             return False
